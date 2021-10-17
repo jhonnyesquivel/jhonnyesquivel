@@ -7,9 +7,9 @@ I'm Jhonny, a Software Engineer. I have a strong background in backend and front
 
 🌱 I’m currently learning golang and related tools
 
-🥅 2020 Goals: Improve technical and softm skills.
+🥅 2020 Goals: Improve technical and soft skills.
 
-🔭 I love to watch the nigth sky throwgth my telescope.
+🔭 I love to see the night sky through my telescope.
 
 
 ## GitHub Stats
