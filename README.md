@@ -1,16 +1,18 @@
-### Hi there 👋
+[![Visits Badge](https://badges.pufler.dev/visits/jhonnyesquivel/jhonnyesquivel)](https://www.linkedin.com/in/jhonny-esquivel/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jhonny-esquivel/)
 
-<!--
-**jhonnyesquivel/jhonnyesquivel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there 👋
 
-Here are some ideas to get you started:
+I'm Jhonny, a Software Engineer. I have a strong background in backend and frontend technologies. My career has been developed in projects from planning to production, working with agile teams under disciplines like mobile native apps, frontend apps, cloud services and backend. I stand out in my team because I like to share my knowledge and help everyone who needs it
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning golang and related tools
+🥅 2020 Goals: Improve technical and softm skills.
+🔭 I love to watch the nigth sky throwgth my telescope.
+
+
+## GitHub Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonnyesquivel&show_icons=true)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnyesquivel&layout=compact)](https://github.com/jhonnyesquivel)
