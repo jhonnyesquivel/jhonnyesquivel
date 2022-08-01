@@ -1,4 +1,4 @@
-[![Visits Badge](https://badges.pufler.dev/visits/jhonnyesquivel/jhonnyesquivel)](https://www.linkedin.com/in/jhonny-esquivel/)
+[![Visits Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonny-esquivel/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jhonny-esquivel/)
 
 Hey there 👋
