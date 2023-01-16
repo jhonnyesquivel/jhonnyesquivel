@@ -3,10 +3,3 @@
 Hey there 👋
 
 I'm Jhonny, a Software Engineer. I have a strong background in backend and frontend technologies. My career has been developed in projects from planning to production, working with agile teams under disciplines like mobile native apps, web apps, cloud services and backend. I stand out in my team because I like to share my knowledge and help everyone who needs it
-
-## GitHub Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonnyesquivel&show_icons=true)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnyesquivel&layout=compact)](https://github.com/jhonnyesquivel)
